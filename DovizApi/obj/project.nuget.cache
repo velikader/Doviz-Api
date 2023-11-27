@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wFfFIrSD82tlwVF9g+Ml8f1Dad5MiJF04PUvGaQ+XICeXxTrJqc9CqNu7YR2fPhx0b6Cm5bPiCELEjpg9ITjEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sedat\\OneDrive\\Desktop\\VK\\DovizApi\\DovizApi\\DovizApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sedat\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\sedat\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sedat\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\sedat\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\sedat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\sedat\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
