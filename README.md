@@ -23,9 +23,7 @@ Aşağıda, projenin sağladığı temel API endpoint'lerinden bazıları bulunm
 
 Detaylı API dokümantasyonu için [Swagger UI](http://localhost:{port}/swagger) adresini ziyaret edebilirsiniz.
 
-## Katkıda Bulunma
 
-Eğer projeye katkıda bulunmak istiyorsanız, lütfen bir fork oluşturun ve pull request gönderin. Her türlü katkı ve geri bildirim için açığız.
 
 ## Lisans
 
