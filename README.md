@@ -1,13 +1,32 @@
-# TCMB Döviz Verileri Çeken Proje
+# TCMB Döviz Verileri Web API
 
-Bu proje, Entity Framework kullanılarak Türkiye Cumhuriyet Merkez Bankası (TCMB) döviz verilerini API'ler aracılığıyla çeken bir örnektir. Ayrıca, Swagger UI ile belgelenmiştir.
+Bu proje, .NET Framework kullanılarak Türkiye Cumhuriyet Merkez Bankası (TCMB) döviz verilerini listeleyen bir Web API'yi içermektedir. Ayrıca, Swagger UI kullanılarak API dokümantasyonu sağlanmıştır.
 
-## Kurulum
+## Proje Detayları
 
-1. **Projeyi İndirme:**
-   ```bash
-   git clone https://github.com/kullanici/adiniz/tcmb-doviz-projesi.git
-   cd tcmb-doviz-projesi
-   Bağımlılıkları Yükleme:
-  dotnet restore
-Veritabanı Güncelleme:
+- **Teknolojiler:** .NET Framework, C#
+- **API Dokümantasyonu:** Swagger UI
+
+## Nasıl Başlatılır
+
+1. Proje dosyalarını bilgisayarınıza indirin.
+2. Visual Studio veya tercih ettiğiniz bir IDE ile projeyi açın.
+3. Projeyi derleyin ve çalıştırın.
+4. Tarayıcıda `http://localhost:{port}/swagger` adresine giderek Swagger UI'yi görüntüleyin.
+
+## API Endpoints
+
+Aşağıda, projenin sağladığı temel API endpoint'lerinden bazıları bulunmaktadır:
+
+- `GET /api/dovizler`: Tüm döviz verilerini listeler.
+- `GET /api/dovizler/{dovizKodu}`: Belirli bir dövizin bilgilerini getirir.
+
+Detaylı API dokümantasyonu için [Swagger UI](http://localhost:{port}/swagger) adresini ziyaret edebilirsiniz.
+
+## Katkıda Bulunma
+
+Eğer projeye katkıda bulunmak istiyorsanız, lütfen bir fork oluşturun ve pull request gönderin. Her türlü katkı ve geri bildirim için açığız.
+
+## Lisans
+
+Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır. Detaylı bilgi için lisans dosyasını kontrol edebilirsiniz.
